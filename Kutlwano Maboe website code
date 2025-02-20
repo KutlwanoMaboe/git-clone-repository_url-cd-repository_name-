@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Kutlwano Maboe Music</title>
+  <style>
+    body {
+      background-color: blue;
+      color: white;
+      font-family: sans-serif;
+    }
+    .text-background {
+      background-color: black;
+      padding: 5px;
+      margin-bottom: 10px;
+    }
+    .album-links {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 10px;
+    }
+    .album-link {
+      display: inline-block;
+      text-align: center;
+    }
+    .album-link img {
+      width: 150px;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="text-background">
+    <h1>Welcome to My Music Website</h1>
+    <p>Short introductory text: Kutlwano Maboe – A Visionary in Hip-Hop and Rap
+
+Kutlwano Maboe is an emerging force in the hip-hop and rap industry, blending powerful beats with lyrical mastery to redefine the essence of the genre. With a deep passion for storytelling, Kutlwano crafts music that resonates with raw emotion, intellect, and authenticity. His latest album, Game Game, showcases his ability to push boundaries while staying true to the roots of hip-hop culture.
+
+Beyond the music, Kutlwano is a dedicated artist with a vision that extends beyond entertainment—he aims to inspire and connect with listeners on a profound level. His journey is a testament to persistence, creativity, and the power of self-expression. As he continues to evolve, his artistry stands as a beacon for those who appreciate depth, rhythm, and a message that speaks to the soul.</p>
+  </div>
+
+  <div class="text-background">
+    <h2>Biography</h2>
+    <p>Detailed biography: Kutlwano Maboe – Music Biography
+
+Kutlwano Maboe, born on February 25, 1997, in South Africa, is a hip-hop and rap artist whose journey into the music industry is marked by resilience, passion, and creativity. From facing personal struggles and hardships, including the loss of close family members and life-threatening experiences, Kutlwano has emerged as a dedicated and talented musician. His music reflects his life's story, blending deep lyrical content with powerful beats that aim to inspire and connect with audiences worldwide.
+
+Kutlwano's latest album, Game Game, showcases his artistic evolution, highlighting his ability to redefine the essence of hip-hop. The album features tracks such as Seek Help, Frequency, Barsoap, Time Destination, Game Game, and Calling You, each filled with lyrical mastery and dynamic rhythms. His music combines emotional depth with an energetic and authentic delivery, making his sound both relatable and engaging.
+
+In addition to music, Kutlwano is also a digital DJ and entrepreneur, navigating his way through the music world by creating album projects and marketing them. With the support of sponsorships and a determined work ethic, Kutlwano continues to build his legacy, demonstrating his passion and persistence in every project he undertakes.
+
+As he forges ahead in the music industry, Kutlwano remains dedicated not only to advancing his own career but also to leaving a lasting impact on the world of hip-hop, with plans to continue pushing boundaries and inspiring others through his music and personal story.</p>
+  </div>
+
+  <div class="text-background">
+    <h3>My Albums</h3>
+    <div class="album-links">
+      <a class="album-link" href="https://open.spotify.com/album/1Dc0dH1UKyPb89jYMrjFeX?si=Aaise1IKQVCEhHjJ4mLEZQ" target="_blank">
+        <img src="game_game.jpg" alt="Game Game Album Cover">
+        <p>Game Game</p>
+      </a>
+      <a class="album-link" href="https://open.spotify.com/album/0MtfyIPsGvfXFnHwOvDMfD?si=8BSZ99cHSQ2F5usg5uQ60A" target="_blank">
+        <img src="truth_in_every_line.jpg" alt="Truth in Every Line Album Cover">
+        <p>Truth in Every Line</p>
+      </a>
+      <a class="album-link" href="https://open.spotify.com/album/17GrF1SxgXYHBV6wnUWh3e?si=XlTPe-IZTbqrbjbsGkRMGA" target="_blank">
+        <img src="echoes_of_essence.jpg" alt="Echoes of Essence Album Cover">
+        <p>Echoes of Essence</p>
+      </a>
+    </div>
+  </div>
+
+</body>
+</html>
